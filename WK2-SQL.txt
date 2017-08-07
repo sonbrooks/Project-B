@@ -1,0 +1,58 @@
+# Writing a README File
+
+# Cybersecurity Week 2 Lab- *Security Shepherd Beverly Brooks* 
+
+Time spent: 5 hours spent in total 
+
+## User Stories
+
+The following **required** functionality is completed:
+
+1. [X]  Required: Setup 
+    -  [X]  Burp
+    -  [X]  Configure your browser to direct traffic through Burp
+    -  [X]  Can successfully view HTTPS traffic in sa
+    -  [X]  open security.shephard.com
+  
+2.  [X]  Required: Challenge 1 - SQL Jection
+3.  [X]  Required: Challenge 2 - SQL Jection 1
+4.  [X]  Required: Challenge 3 - SQL Jection 2
+5.  [X]  Required: Challenge 4 - SQL Jection Escaping
+6.  [X]  Required: Challenge 5 - SQL Jection 3
+
+The following advanced user stories are optional:
+
+7.  []   Bonus:    Challenge 1 - SQL Jection 4
+8.  []   Bonus:    Challenge 1 - SQL Jection 5
+9.  []   Bonus:    Challenge 1 - SQL Jection Stored Procedure
+10. []   Bonus:    Challenge 1 - SQL Jection 6 
+11. []   Bonus:    Challenge 1 - SQL Jection 7
+
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://i.imgur.com/mmmVX9e.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+SQL was challenging with the increasingly difficultly moving to the next challenges. Another challenge was selecting the right option statements for the scenarios. Each challenge more enlightening then the prior, I will continue to crack the bonus challenges. Very cool experience. 
+
+## License
+
+    Copyright [2017] [Beverly Brooks]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
